@@ -1,4 +1,0 @@
-reg,color
-ABC001,Red
-BCd002,Green
-CDE003,Blue

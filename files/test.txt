@@ -1,8 +1,0 @@
-Hello world
-
-This is the first line in the file
-
-Hello Srilatha
-
-This is the second line in the file
-
